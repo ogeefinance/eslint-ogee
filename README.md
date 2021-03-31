@@ -1,0 +1,2 @@
+# eslint-ogee
+eslint-ogee
